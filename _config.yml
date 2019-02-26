@@ -1,7 +1,7 @@
 title: Civic Technology @ University of Chicago
 description: >
   How to build things that matter with Abhi Nemani.
-baseurl: "/immaculate"
+baseurl: "/civictechcourse"
 url: "https://github.com/siawyoung/immaculate"
 paginate:	2 # The number of posts to show per page on your homepage
 name: "Abhi Nemani"
