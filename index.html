@@ -10,52 +10,30 @@ layout: default
   </section>
 
   <div>
-    {% for post in paginator.posts %}
-      <article itemscope itemtype="http://schema.org/BlogPosting" role="article">
+     <article itemscope itemtype="http://schema.org/BlogPosting" role="article">
 
           <header>
-            <h2 itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+            <h2 itemprop="name">Description</h2>
           </header>
 
           <div class="post-meta">
-            <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+              Abhi Nemani
           </div>
 
           <section itemprop="description">
-            {{ post.content | markdownify }}
+              <p>When you build civic technology it has the opportunity of touching millions of lives. Plus, you enter an industry – the public sector – that spends over $100 billion every year on technology. Civic tech has tremendous opportunity.</p>
+ 
+              </p>But also real challenges.</p>
+ 
+              </p>Getting access to the right data, understanding the existing infrastructure, and knowing what to build are non-trivial questions. Neither is the technology challenge in building good things. In this class, we will go through the process of building good civic tech, and you’ll learn how to build tech that makes a difference in people’s lives.</p>
+ 
+              </p>This course will provide the roadmap from taking an idea for civic technology into a reality. That will involve practical education around how governments operate, how to access and connect to government databases (Python), how to clean that data up into something useful (ETLs), how to build a web application that address a civic issue (Javascript, Ruby, or Python), and how to deploy that application to the users that need it.</p>
+              
           </section>
 
       </article>
-    {% endfor %}
-  </div>
+=  </div>
 
-  <nav role="navigation">
-    {% if paginator.total_pages > 1 %}
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-      {% else %}
-        <span>&laquo;</span>
-      {% endif %}
-
-      {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-          <em>{{ page }}</em>
-        {% elsif page == 1 %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-        {% else %}
-          <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-        {% endif %}
-      {% endfor %}
-
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-      {% else %}
-        <span>&raquo;</span>
-      {% endif %}
-    </div>
-    {% endif %}
-  </nav>
 
 </main>
 
