@@ -37,4 +37,4 @@ The course will be organized to provide students with the context, techniques, a
 - Model: In-house/training (government) vs B2G vs B2B vs B2C; open vs closed source
 - Funding: private, government, foundation, citizen, hybrid
  
-(These technical and operational tactics, generalized, should be useful not only in the development of civic tech, but any product.)
+*(These technical and operational tactics, generalized, should be useful not only in the development of civic tech, but any product.)*
