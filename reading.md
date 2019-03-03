@@ -22,6 +22,6 @@ permalink: /readings/
 
 ## Additional (Optional) Reading
 
-* [Regulatory Hacking: A Playbook for Startups](https://www.amazon.com/Regulatory-Hacking-Playbook-Evan-Burfield-ebook/dp/B078GBFZ7) by Evan Burfield
+* [Regulatory Hacking: A Playbook for Startups](https://www.amazon.com/Regulatory-Hacking-Playbook-Evan-Burfield-ebook/dp/B078GBFZ73) by Evan Burfield
 * [Open Government: Collaboration, Transparency, and Participation in Practice](http://shop.oreilly.com/product/9780596804367.do) by O'Reilly Media (Compilation)
 * [Civic Tech: Making Technology Work for People](https://www.amazon.com/gp/product/1732084807/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) by Andrew Schrock
