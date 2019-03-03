@@ -19,3 +19,9 @@ permalink: /readings/
 * [12 Things Everyone Should Understand About Tech](https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411) by Anil Dash
 * [Small (City) Pieces, Loosely Joined](https://medium.com/@abhinemani/small-city-pieces-loosely-joined-5202fb5a93e3) by Abhi Nemani 
 * [GovTech Business Model Canvas](https://blog.stormventures.com/govtech-business-model-canvas-3b8246af8a93) by Frederik Groce
+
+## Additional (Optional) Reading
+
+* [Regulatory Hacking: A Playbook for Startups](https://www.amazon.com/Regulatory-Hacking-Playbook-Evan-Burfield-ebook/dp/B078GBFZ7) by Evan Burfield
+* [Open Government: Collaboration, Transparency, and Participation in Practice](http://shop.oreilly.com/product/9780596804367.do) by O'Reilly Media (Compilation)
+* [Civic Tech: Making Technology Work for People](https://www.amazon.com/gp/product/1732084807/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) by Andrew Schrock
