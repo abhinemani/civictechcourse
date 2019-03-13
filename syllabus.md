@@ -12,9 +12,9 @@ The course will be organized to provide students with the context, techniques, a
 - Landscape review of existing solutions
 
 2. What’s different? [Opportunity]
+- Government vs Citizens vs Consumers
 - Technical overview of existing systems / languages within government (eg COBOL, Java, etc)
 - Key cultural distinctions between civic and consumer tech: access, literacy, language
-- Government vs Citizen "customers"
 
 3. Who are you building with and for? [Design]
 - Lean / agile development methodologies

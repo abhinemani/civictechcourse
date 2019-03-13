@@ -5,11 +5,7 @@ permalink: /policies/
 ---
 
 ## Attendance:
-Students are expected to attend every class session if at all possible. Please inform your
-instructor if you know in advance that you will not be able to make it to class. This
-course contains difficult material that builds quickly upon the prior weeks – missing
-classes will add significant burden to students and should be avoided whenever
-Possible.
+Students are expected to attend every class session if at all possible. Please inform your instructor if you know in advance that you will not be able to make it to class. This course contains difficult material that builds quickly upon the prior weeks – missing classes will add significant burden to students and should be avoided whenever possible.
 
 ## Grading:
 Letter Grade Percentage
