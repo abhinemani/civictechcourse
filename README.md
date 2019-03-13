@@ -2,10 +2,10 @@
 
 University of Chicago Civic Technology course as part of the Computational Analysis & Public Policy program
 
- - [Syllabus](/blob/master/syllabus.md)
- - [Reading List](/blob/master/reading.md)
- - [Policies](//blob/master/policies.md)
- - [Assignments](//blob/master/assignments.md)
+ - [Syllabus](syllabus.md)
+ - [Reading List](reading.md)
+ - [Policies](policies.md)
+ - [Assignments](assignments.md)
  
 Site built using the Immaculate theme for Jekyll. 
 
