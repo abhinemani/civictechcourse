@@ -14,26 +14,33 @@ The course will be organized to provide students with the context, techniques, a
 2. What’s different? [Opportunity]
 - Technical overview of existing systems / languages within government (eg COBOL, Java, etc)
 - Key cultural distinctions between civic and consumer tech: access, literacy, language
+- Government vs Citizen "customers"
 
 3. Who are you building with and for? [Design]
 - Lean / agile development methodologies
 - User research in the civic technology space
 
-4. What do you need to get started? [Data]
+4. Can / should you build? 
+- Build vs buy & governmental decision-making
+- Data availability and sources
+- Shortcomings in the data landscape
+
+5. What do you need to get started? [Data]
+- Web scraping methodologies
 - Data extraction methodologies
 - Understanding and using Geographic Information Systems (GIS)
 - Understanding and building Demilitarized Zones (DMZs)
 
-5. How do you piece things together? [Data & Design]
+6. How do you piece things together? [Data & Design]
 - ETLs / Data wrangling (Python)
 - Data warehousing (PostgreSQL)
 - Application development (Javascript / Python)
 
-6. How do you get to your users? [Delivery]
+7. How do you get to your users? [Delivery]
 - Lean / agile metrics for measuring engagement (ie AARRR)
 - Civic marketing tactics: government “real estate”, upsells, defaults
 
-7. How do you ensure sustainability? [Delivery]
+8. How do you ensure sustainability? [Delivery]
 - Model: In-house/training (government) vs B2G vs B2B vs B2C; open vs closed source
 - Funding: private, government, foundation, citizen, hybrid
  
