@@ -20,8 +20,8 @@
   "@type": "NewsArticle",
   "mainEntityOfPage": "https://github.com/siawyoung/immaculate/civictechcourse/syllabus/",
   "headline": "Syllabus",
-  "datePublished": "2019-02-26T11:15:35-06:00",
-  "dateModified": "2019-02-26T11:15:35-06:00",
+  "datePublished": "2019-03-13T11:48:05-05:00",
+  "dateModified": "2019-03-13T11:48:05-05:00",
   "description": "How to build things that matter.
 ",
   "author": {
@@ -165,7 +165,8 @@ div.epigraph > blockquote > footer > cite {
 
 /* end chapter epigraphs styles */
 blockquote {
-  font-size: 1.4rem; }
+  font-size: 1.4rem;
+  font-style: italic; }
 
 blockquote p {
   width: 50%; }
@@ -472,7 +473,7 @@ code {
       
     <img src="/civictechcourse/assets/images/uc-logo.png" style="width: 100px; float: right; padding-bottom: 20px;">
     <h1 class="post-title">      
-Syllabus (Draft)</h1>
+Syllabus</h1>
   </div>
 
   <section>
@@ -557,8 +558,26 @@ Syllabus (Draft)</h1>
        
      
    </div>
-   <section class="copyright">Happily organized by <a href="mailto:abhinemani@uchicago.edu">Abhi Nemani</a> </section>
+   <section class="copyright">Happily organized by <a href="https://abhinemani.com">Abhi Nemani</a> </section>
 </footer>
+
+   <script>
+    var links = document.links;
+       for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+       if (links[i].hostname != window.location.hostname) {
+        links[i].target = '_blank';
+       } 
+    }
+   </script>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2506770-21"></script>
+   <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-2506770-21');
+   </script>
 
 
   </body>

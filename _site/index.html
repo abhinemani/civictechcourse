@@ -20,8 +20,8 @@
   "@type": "NewsArticle",
   "mainEntityOfPage": "https://github.com/siawyoung/immaculate/civictechcourse/",
   "headline": "Civic Technology (Draft)",
-  "datePublished": "2019-02-26T11:15:35-06:00",
-  "dateModified": "2019-02-26T11:15:35-06:00",
+  "datePublished": "2019-03-13T11:48:05-05:00",
+  "dateModified": "2019-03-13T11:48:05-05:00",
   "description": "How to build things that matter.
 ",
   "author": {
@@ -165,7 +165,8 @@ div.epigraph > blockquote > footer > cite {
 
 /* end chapter epigraphs styles */
 blockquote {
-  font-size: 1.4rem; }
+  font-size: 1.4rem;
+  font-style: italic; }
 
 blockquote p {
   width: 50%; }
@@ -488,11 +489,11 @@ code {
           <section itemprop="description">
               <p>When you build civic technology it has the opportunity of touching millions of lives. Plus, you enter an industry – the public sector – that spends over $100 billion every year on technology. Civic tech has tremendous opportunity.</p>
  
-              <p>But also real challenges.</p>
+              <p>But also real challenges: getting access to the right data, understanding the existing infrastructure, and knowing what to build are non-trivial questions. </p>
+              
+              <p>In this course, we will go through the process of building good civic tech, and you’ll learn how to build tech that makes a difference in people’s lives.</p>
  
-              <p>Getting access to the right data, understanding the existing infrastructure, and knowing what to build are non-trivial questions. Neither is the technology challenge in building good things. In this class, we will go through the process of building good civic tech, and you’ll learn how to build tech that makes a difference in people’s lives.</p>
- 
-              <p>This course will provide the roadmap from taking an idea for civic technology into a reality. That will involve practical education around how governments operate, how to access and connect to government databases (Python), how to clean that data up into something useful (ETLs), how to build a web application that address a civic issue (Javascript, Ruby, or Python), and how to deploy that application to the users that need it.</p>
+              <p>That will involve practical education around how governments operate, how to access and connect to government databases (Python), how to clean that data up into something useful (ETLs), how to build a web application that address a civic issue (Javascript, Ruby, or Python), and how to deploy that application to the users that need it.</p>
 
               <h3>Goals</h3>
               <ul>
@@ -555,8 +556,26 @@ code {
        
      
    </div>
-   <section class="copyright">Happily organized by <a href="mailto:abhinemani@uchicago.edu">Abhi Nemani</a> </section>
+   <section class="copyright">Happily organized by <a href="https://abhinemani.com">Abhi Nemani</a> </section>
 </footer>
+
+   <script>
+    var links = document.links;
+       for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+       if (links[i].hostname != window.location.hostname) {
+        links[i].target = '_blank';
+       } 
+    }
+   </script>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2506770-21"></script>
+   <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-2506770-21');
+   </script>
 
 
   </body>
