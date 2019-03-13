@@ -20,6 +20,7 @@ permalink: /readings/
 * [The Strategy is Delivery](https://www.youtube.com/watch?v=3bK9B8_0FDQ) by Mike Bracken (Video)
 * [Scaling Civic Tech](https://knightfoundation.org/features/civictechbiz/) by The Knight Foundation
 * [12 Things Everyone Should Understand About Tech](https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411) by Anil Dash
+* [A Serenity Prayer for GovTech](https://blog.citygro.ws/hello-im-catherine-and-i-m-a-government-technologist-57e4ae621039) by Catherine Geanuracos
 * [Small (City) Pieces, Loosely Joined](https://medium.com/@abhinemani/small-city-pieces-loosely-joined-5202fb5a93e3) by Abhi Nemani 
 * [GovTech Business Model Canvas](https://blog.stormventures.com/govtech-business-model-canvas-3b8246af8a93) by Frederik Groce
 * [My failures: Civic technology ideas that didn’t quite work](https://medium.com/@joshuatauberer/my-failures-civic-technology-ideas-that-didn-t-quite-work-c73ecf730032) by Joshua Tauberer
