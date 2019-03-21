@@ -9,9 +9,9 @@ Taught by former ED of Code for America, CDO of LA, and CIO of Sacramentao, Abhi
 
 ### Recommended Qualifications
 
- - Technical experience with Python (scrapiing, ETLs, etc)
- - Database management experience & Application development
+ - Technical experience with Python (web scraping, data processing, etc)
+ - Database management & Application development
  - Passion for civic technology
  - Experience in academia or industry
 
-This is a paid position for a 10 week course, with the expectation of 5-6 hours a work a week. More information on the course is available [online](https://abhinemani.com/civictechcourse), and anyone interested should contact Abhi Nemani at abhniemani@uchicago.edu.
+This is a paid position for a 10 week course, with the expectation of 5-6 hours a work a week. More information on the course is available [online](https://abhinemani.com/civictechcourse), and anyone interested should contact Abhi Nemani at abhinemani@uchicago.edu.
