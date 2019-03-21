@@ -10,5 +10,5 @@ markdown: kramdown
 permalink: none
 kramdown:
   parse_block_html: true
-gems:
+plugins:
   - jekyll-paginate
