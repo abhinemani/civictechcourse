@@ -5,7 +5,7 @@ permalink: /ta/
 ---
 Want to grow the civic technology industry, while learning more about it? The University of Chicago is starting a class this spring to train its masters students in data science and public policy in how to build tech that matters. 
 
-Taught by former ED of Code for America, CDO of LA, and CIO of Sacramentao, Abhi Nemani, the Civic Technology course is a first-of-its-kind opportunity to train the next generation of civic tech leaders. Abhi is looking for a teaching assistant to help with course planning, teaching, and student engagement, with a focus on technical skills (data scraping/warehousing and app dev). 
+Taught by former ED of Code for America, CDO of LA, and CIO of Sacramento, Abhi Nemani, the Civic Technology course is a first-of-its-kind opportunity to train the next generation of civic tech leaders. Abhi is looking for a teaching assistant to help with course planning, teaching, and student engagement, with a focus on technical skills (data scraping/warehousing and app dev). 
 
 ### Recommended Qualifications
 
