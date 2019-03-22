@@ -46,10 +46,8 @@ code {
 
 
 @media print {
-  header, footer {display: none;}
+  header, footer, .no-print {display: none;}
   img { display: none;}
   p, ol, ul {width: 90%;}
-  background: {color: white;}
-
-  
+  body {background-color: white;}  
 }
