@@ -2,7 +2,7 @@
 layout: page
 title: Teaching Assistant
 permalink: /ta/
-exclude: true
+output: true
 ---
 Want to grow the civic technology industry, while learning more about it? The University of Chicago is starting a class this spring to train its masters students in data science and public policy in how to build tech that matters. 
 

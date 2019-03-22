@@ -1,10 +1,10 @@
 <header>
   <div class="page-links">
     <a class="page-link" href="{{ site.baseurl }}/">Home</a>
-    {% for my_page in site.pages %}
-      {% if my_page.title %}
-      • <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+    {% for detail in site.details %}
+      {% if detail.title %}
+      • <a class="page-link" href="{{ detail.url | prepend: site.baseurl }}">{{ detail.title }}</a>
       {% endif %}
-    {% endfor %}
+    {% endfor %} • <a class="page-link" href="{{ detail.url | prepend: site.baseurl}}/overview.html">Overview</a>
   </div>
 </header>

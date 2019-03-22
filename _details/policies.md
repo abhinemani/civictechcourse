@@ -2,6 +2,7 @@
 layout: page
 title: Policies
 permalink: /policies/
+output: true
 ---
 
 ## Attendance:

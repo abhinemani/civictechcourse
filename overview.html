@@ -23,7 +23,8 @@ title: Overview
         </div>
 
           <section itemprop="description">
-              <p>When you build civic technology it has the opportunity of touching millions of lives. Plus, you enter an industry – the public sector – that spends over $100 billion every year on technology. Civic tech has tremendous opportunity.</p>
+              <p>When you build civic technology it has the opportunity of touching millions of lives. Plus, you enter an industry – the public sector – that spends over $100 billion every year on technology.</p> 
+			  <p>Civic tech has tremendous opportunity.</p>
  
               <p>But also real challenges: getting access to the right data, understanding the existing infrastructure, and knowing what to build are non-trivial questions. </p>
               
@@ -36,7 +37,7 @@ title: Overview
                   <li>Understand and identify opportunities for civic application development</li>
                   <li>Be able to connect to governmental data systems</li>
                   <li>Be able to manipulate data from governmental systems into actionable datastores</li>
-                  <li>Build an aoo that uses civic/gov data that addresses a real need</li>
+                  <li>Build an application that uses civic and government data that addresses a real need</li>
                   <li>Articulate the value proposition of your application to stakeholders</li>
                   
                </ul>
@@ -68,16 +69,11 @@ title: Overview
               </ul>
           </section>
 		  
-		  {% for page in site.pages %}
-		    {% unless page.exclude %}
-		    <h1>
-				<a href="{{ page.url }}">
-					{{ page.title }}</a>
-			</h1>
-		    <p>{{ page.content | markdownify }}</p>
-			  {% endunless %}
-		  {% endfor %}
-
+		 {% for detail in site.details %}
+		   <h2>{{ detail.title }}</h2>
+		   <p>{{ detail.content | markdownify }}</p>
+		 {% endfor %}
+ 
       </article>
   </div>
 

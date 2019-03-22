@@ -2,6 +2,7 @@
 layout: page
 title: Reading List
 permalink: /readings/
+output: true
 ---
 ## Books
 
