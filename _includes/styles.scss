@@ -43,3 +43,13 @@ code {
   font-size: 1.125rem;
   line-height: 1.6;
 }
+
+
+@media print {
+  header, footer {display: none;}
+  img { display: none;}
+  p, ol, ul {width: 90%;}
+  background: {color: white;}
+
+  
+}
