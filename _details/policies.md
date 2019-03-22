@@ -11,17 +11,12 @@ Students are expected to attend every class session if at all possible. Please i
 ## Grading:
 Letter Grade Percentage
 
-A: 94% to 100%
-
-A-: 90% to less than 94%
-
-B+: 88% to less than 90%
-
-B: 84% to less than 88%
-
-B-: 80% to less than 84%
-
-C: 70% to less than 80%
+ - A: 94% to 100%
+ - A-: 90% to less than 94%
+ - B+: 88% to less than 90%
+ - B: 84% to less than 88%
+ - B-: 80% to less than 84%
+ - C: 70% to less than 80%
 
 ## Academic honesty
 The University of Chicago has a formal policy on academic honesty that you
