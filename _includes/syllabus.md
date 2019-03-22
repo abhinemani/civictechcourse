@@ -2,7 +2,6 @@
 layout: page
 title: Syllabus
 permalink: /syllabus/
-category: description
 ---
 
 The course will be organized to provide students with the context, techniques, and capabilities to build effective civic technology. Pulling from the best practices of the consumer tech industry and the nuances of the civic space tech, the course is organized around four central themes from start to finish in the product life-cycle: 1) identifying opportunities, to 2) developing a conceptual design; 3) gathering and wrangling data; and finally 4) delivery. The following list of topics / questions form the arc of the course, which will be spread across 10 weeks.

@@ -4,6 +4,8 @@ title: Assignments
 permalink: /assignments/
 ---
 
+## Draft
+
 The following are the major assignments students will be asked to complete. In addition, there will be 8 short weekly assignments (eg problem sets, summaries, or research), each worth 5%. 
 
 1. Critique the design of a failed, relevant civic technology project (15%)

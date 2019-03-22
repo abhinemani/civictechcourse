@@ -1,6 +1,7 @@
 ---
 layout: default
 exclude: true
+title: Overview
 ---
 
 <main class="home">
@@ -66,6 +67,16 @@ exclude: true
                   <li>Cell: <a href="tel:618-322-2220">618-322-2220</a></li>
               </ul>
           </section>
+		  
+		  {% for page in site.pages %}
+		    {% unless page.exclude %}
+		    <h1>
+				<a href="{{ page.url }}">
+					{{ page.title }}</a>
+			</h1>
+		    <p>{{ page.content | markdownify }}</p>
+			  {% endunless %}
+		  {% endfor %}
 
       </article>
   </div>
