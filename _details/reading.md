@@ -37,3 +37,4 @@ output: true
 * [The Responsive City](https://www.amazon.com/Responsive-City-Communities-Data-Smart-Governance/dp/1118910907) by Susan Crawford and Stephen Goldsmith
 * [Civic Tech: Making Technology Work for People](https://www.amazon.com/gp/product/1732084807/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) by Andrew Schrock
 * [The CUT Book](https://www.slideshare.net/juggernautco/the-cutgroup-book) by SmartChicagoCollaborative
+* [Smart Cities](https://www.amazon.com/Smart-Cities-Civic-Hackers-Utopia/dp/0393349780/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=HCX17KXYY5QBQ7X49Q0E) by Anthony Townsend
