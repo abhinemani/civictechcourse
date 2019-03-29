@@ -9,6 +9,7 @@ output: true
 * [Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898), Eric Ries
 * [Beyond Transparency](http://beyondtransparency.org), Code for America Press
 * [Web Scraping with Python](http://shop.oreilly.com/product/0636920078067.do) by Ryan Mitchell
+* [The Data Warehouse ETL Toolkit](http://shop.oreilly.com/product/9780764567575.do) by Ralph Kimball and Joe Caserta
 
 ## Articles / Videos
 
