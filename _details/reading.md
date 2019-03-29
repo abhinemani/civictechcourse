@@ -21,12 +21,14 @@ output: true
 * [Government as a Platform](https://www.mitpressjournals.org/doi/pdf/10.1162/INOV_a_00056) by Tim O’Reilly
 * [The Strategy is Delivery](https://www.youtube.com/watch?v=3bK9B8_0FDQ) by Mike Bracken (Video)
 * [Scaling Civic Tech](https://knightfoundation.org/features/civictechbiz/) by The Knight Foundation
+* [Before the Commit: A Note for Tech Friends Newly Motivated to Hack for Justice](https://medium.com/@mishmosh/before-the-commit-a-note-for-tech-friends-newly-motivated-to-hack-for-justice-6a6269b76a64) by Michelle Lee
 * [12 Things Everyone Should Understand About Tech](https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411) by Anil Dash
 * [Building Technology with, not for](https://medium.com/organizer-sandbox/building-technology-with-not-for-communities-an-engagement-guide-for-civic-tech-b8880982e65a) by Laurenellen McCann
 * [A Serenity Prayer for GovTech](https://blog.citygro.ws/hello-im-catherine-and-i-m-a-government-technologist-57e4ae621039) by Catherine Geanuracos
 * [Small (City) Pieces, Loosely Joined](https://medium.com/@abhinemani/small-city-pieces-loosely-joined-5202fb5a93e3) by Abhi Nemani 
 * [Why Good Hackers Make Good Citizens](https://www.youtube.com/watch?v=QeAGu40vZzI) by Catherine Bracy (Video)
 * [GovTech Business Model Canvas](https://blog.stormventures.com/govtech-business-model-canvas-3b8246af8a93) by Frederik Groce
+* [Y Combinator Founder Stories: Detroit Water Project](https://blog.ycombinator.com/qa-with-tiffani-ashley-bell/) by Tiffani Ashley Bell
 * [My failures: Civic technology ideas that didn’t quite work](https://medium.com/@joshuatauberer/my-failures-civic-technology-ideas-that-didn-t-quite-work-c73ecf730032) by Joshua Tauberer
 * [What side are you on, Vendors?](https://medium.com/code-for-america/which-side-are-you-on-vendors-1259e18c2d86) by Jennifer Pahlka
 * [How Technology Is Transforming The Government CIO Role](https://www.citysourced.com/blog/technology-transforming-government-cio/) by Andrew Kirk
