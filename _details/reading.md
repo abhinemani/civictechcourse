@@ -29,7 +29,7 @@ output: true
 * [Civic Tech as a Tween](https://medium.com/@cydharrell/civic-tech-as-a-tween-4cd780b971bb) by Cyd Harrell
 * [What side are you on, Vendors?](https://medium.com/code-for-america/which-side-are-you-on-vendors-1259e18c2d86) by Jennifer Pahlka
 * [How Technology Is Transforming The Government CIO Role](https://www.citysourced.com/blog/technology-transforming-government-cio/) by Andrew Kirk
-* [Why Good Hackers Make Good Citizens] (https://www.youtube.com/watch?v=QeAGu40vZzI) by Catherine Bracy (Video)
+* [Why Good Hackers Make Good Citizens](https://www.youtube.com/watch?v=QeAGu40vZzI) by Catherine Bracy (Video)
 
 
 ## Additional (Optional) Reading
