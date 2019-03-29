@@ -28,6 +28,7 @@ output: true
 * [Building Technology with, not for](https://medium.com/organizer-sandbox/building-technology-with-not-for-communities-an-engagement-guide-for-civic-tech-b8880982e65a) by Laurenellen McCann
 * [Civic Tech as a Tween](https://medium.com/@cydharrell/civic-tech-as-a-tween-4cd780b971bb) by Cyd Harrell
 * [What side are you on, Vendors?](https://medium.com/code-for-america/which-side-are-you-on-vendors-1259e18c2d86) by Jennifer Pahlka
+* [How Technology Is Transforming The Government CIO Role](https://www.citysourced.com/blog/technology-transforming-government-cio/) by Andrew Kirk
 
 
 ## Additional (Optional) Reading
