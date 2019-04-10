@@ -34,6 +34,29 @@ pre {
 	width: 90%;
 }
 
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+	margin-top: 10px;
+}
+
+.resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90%;
+    height: 100%;
+    border: 0;
+}
+
+@media only screen and (min-width: 760px) {
+  .resp-container {
+	max-width: 768px;
+	padding-top: 30%;
+  }
+}
+
 @media (max-width: 760px) {
   pre {
     width: 90%;
