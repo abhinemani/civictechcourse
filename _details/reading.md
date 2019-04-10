@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading List
+title: Readings
 permalink: /readings/
 output: true
 ---
