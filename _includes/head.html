@@ -7,12 +7,12 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} | {{ site.title }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-  <meta name="og:title" property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} | {{ site.title }}" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} | {{ site.title }}" />
   <meta name="og:description" property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="og:image" property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/images/site.jpg" />
-  <meta name="og:url" property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <meta name="og:site_name" property="og:site_name" content="Civic Tech Course" />
-  <meta name="og:type" property="og:type" content="website" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/images/site.jpg" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:site_name" content="Civic Tech Course" />
+  <meta property="og:type" content="website" />
   <meta property="fb:app_id" content="604511916681574" />
   <!-- Twitter -->
   <meta name="twitter:card" content="summary">
