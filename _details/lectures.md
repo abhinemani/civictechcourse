@@ -5,7 +5,7 @@ permalink: /lectures/
 output: true
 ---
 <p>
-	As the course progresses, slides from each class will be posted here for viewing or download, per a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Free Culture license</a>. 
+	As the course progresses &#8212; there will be 20 lectures total &#8212;  slides from each class will be posted here for viewing or download, per a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Free Culture license</a>. 
 </p>
 
 
