@@ -11,7 +11,7 @@ output: true
 
 {% for lecture in site.data.lectures %}
 <h3>
-	<a name="{{ lecture.name }}" href="https://drive.google.com/uc?id={{ lecture.id }}&export=download">
+	<a name="{{ lecture.name }}" href="https://drive.google.com/uc?id={{ lecture.id }}&export=download"  onclick="ga('send', 'event', 'PDF', 'Download', '{{ lecture.description }}');">
 	 <strong>Lecture {{ lecture.name }}:</strong> 	{{ lecture.description }}</a>
 </h3>
 <div class="resp-container">
