@@ -11,7 +11,7 @@ output: true
 
 {% for lecture in site.data.lectures %}
 <h3>
-	<a name="{{ lecture.name }}" href="https://drive.google.com/uc?id={{ lecture.id }}&export=download"   onClick="_gaq.push(['_trackEvent', 'downloads', 'click', '{{ lecture.description }}', '0']);" >
+	<a name="{{ lecture.name }}" href="https://drive.google.com/uc?id={{ lecture.id }}&export=download" onClick="_gaq.push(['_trackEvent', 'downloads', 'click', '{{ lecture.description }}', '0']);" onClick="ga('send', 'event', 'PDF', 'Download' , '{{ lecture.description }}', 1);" >
 	 <strong>Lecture {{ lecture.name }}:</strong> 	{{ lecture.description }}</a>
 </h3>
 <div class="resp-container">
