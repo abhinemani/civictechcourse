@@ -13,7 +13,7 @@
   },
   "publisher": {
     "@type": "Organization",
-    "name": "{{ site.title }}",
+    "name": "University of Chicago",
     "logo": {
       "@type": "ImageObject",
       "url": "{{ site.logo | prepend: site.baseurl | prepend: site.url }}",
