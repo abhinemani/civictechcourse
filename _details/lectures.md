@@ -5,7 +5,7 @@ permalink: /lectures/
 output: true
 ---
 <p>
-	The Civic Technology Course is part product, part theory, and part technical, with a focus on the characteristics unique to public interest tech. There will be 20 lectures total delivered between April and June 2019. As they become available, slides from each class will be posted here for viewing or download, per a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Free Culture license</a>. 
+	The Civic Technology Course is part product, part theory, and part technical, with a focus on the characteristics unique to public interest tech. There were 16 lectures total delivered between April and June 2019. Slides from each class are posted here for viewing or download, per a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Free Culture license</a>. 
 </p>
 
 <ul>
