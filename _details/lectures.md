@@ -5,10 +5,10 @@ permalink: /lectures/
 output: true
 ---
 <p>
-	From empathy to the ecosystem, from data to delivery, and from startups to sustainability... A master class on leveraging technology -- software, data, and design -- for the public good.
+	From empathy to the ecosystem, from data to delivery, and from startups to sustainability... A master class on leveraging technology &#8212; software, data, and design &#8212; for the public good.
 </p>
 <p>
-	The Civic Technology Course is part product, part theory, and part technical, with a focus on the characteristics unique to public interest tech. There were 16 lectures total delivered between April and June 2019. Slides from each class are posted here for viewing or download, per a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Free Culture license</a>. 
+	The Civic Technology Course is part product, part theory, and part technical, with a focus on the characteristics unique to public interest tech. There were 16 lectures total delivered between April and June 2019. Slides from each class are posted here for viewing, sharing, or downloading, per a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Free Culture license</a>. 
 </p>
 
 <ul>
