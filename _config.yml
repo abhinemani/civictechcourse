@@ -5,7 +5,7 @@ baseurl: "/civictechcourse"
 url: "https://abhinemani.com"
 paginate:	2 # The number of posts to show per page on your homepage
 name: "Abhi Nemani"
-email: abhinemani@uchicago.edu
+email: abhi.nemani@gmail.com
 markdown: kramdown
 logo: /assets/images/square.jpg
 permalink: none
